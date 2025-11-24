@@ -5,7 +5,7 @@ const Home = () => {
 
       <div className="rounded-xl bg-white p-6 shadow-sm">
         <p className="text-gray-700">
-          HOME
+          HOME clone
         </p>
       </div>
     </div>
