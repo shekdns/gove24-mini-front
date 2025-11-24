@@ -5,7 +5,7 @@ const Home = () => {
 
       <div className="rounded-xl bg-white p-6 shadow-sm">
         <p className="text-gray-700">
-          검색창 / 주요 서비스 / 공지 영역을 여기서 확장해갈 거야.
+          HOME
         </p>
       </div>
     </div>
