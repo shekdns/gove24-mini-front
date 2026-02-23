@@ -2,12 +2,14 @@ import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
-    <div className="space-y-6">
-      <h1 className="text-2xl font-bold">정부24 미니 홈</h1>
-
-      <div className="rounded-xl bg-white p-6 shadow-sm">
-        <p className="text-gray-700">
-          HOME clone
+    <div className="space-y-8">
+      {/* Hero / Title */}
+      <section className="rounded-2xl bg-white p-6 shadow-sm border">
+        <h1 className="text-2xl md:text-3xl font-extrabold text-slate-900">
+          정부24 Mini
+        </h1>
+        <p className="mt-2 text-slate-600">
+          민원 신청 · 증명서 발급 · 행정 서비스 정보를 한 곳에서 확인하세요.
         </p>
 
         {/* Search */}
